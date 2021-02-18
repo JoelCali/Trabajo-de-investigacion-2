@@ -13,3 +13,11 @@
     - Aplicar el teorema de Norton para simplificar circuitos reactivos en serie-paralelo de CA.
    
     - Aplicar el teorema de Thevenin para simplificar circuitos reactivos en serie-paralelo de CA para su análisis.
+
+2. MARCO TEÓRICO
+3. EJERCICIOS
+4. LISTA DE COMPONENTES
+5. EXPLICACION
+6. APORTES
+7. CONCLUSIONES
+8. BIBLIOGRAFIA
