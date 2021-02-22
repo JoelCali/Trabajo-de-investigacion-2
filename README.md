@@ -8,11 +8,11 @@
     
   * Objetivos Específicos:
 
-    - Aplicar el teorema de superposición al análisis de circuitos en serie-paralelo de CA.
+    - Describir la relación entre corriente y voltaje en un circuito RC en serie-paralelo.
    
-    - Aplicar el teorema de Norton para simplificar circuitos reactivos en serie-paralelo de CA.
+    - Determinar impedancia y admitancia en un circuito RC en paralelo.
    
-    - Aplicar el teorema de Thevenin para simplificar circuitos reactivos en serie-paralelo de CA para su análisis.
+    - Determinar la impedancia de un circuito RC en serie.
 
 2. MARCO TEÓRICO
 3. EJERCICIOS
