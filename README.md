@@ -55,7 +55,7 @@ TinkerCAD
 
 Proteus
 
-![image](https://user-images.githubusercontent.com/76134214/108809129-2d357180-7576-11eb-9db0-1c4f3f11e77b.png)
+![image](https://user-images.githubusercontent.com/76134214/108809129-2d357180-7576-11eb-9db0-1c4f3f11e77b.png) ![image](https://user-images.githubusercontent.com/76134214/108850297-368fff80-75b1-11eb-8e2d-18a4e3f91af9.png)
 
 7. CONCLUSIONES
  - En conclusión, la impedancia es un parámetro de gran importancia en la caracterización de circuitos y componentes electrónicos, tambien se debe tener en cuenta que la impedancia tiene una parte real y una parte imaginaria.
