@@ -27,9 +27,12 @@
 
 3. EJERCICIOS
 4. LISTA DE COMPONENTES
-5. EXPLICACION
-6. APORTES
-7. CONCLUSIONES
+
+  ![image](https://user-images.githubusercontent.com/76134214/108808757-4db0fc00-7575-11eb-8b19-602b6cb67d77.png)
+
+6. EXPLICACION
+7. APORTES
+8. CONCLUSIONES
  - En conclusión, la impedancia es un parámetro de gran importancia en la caracterización de circuitos y componentes electrónicos, tambien se debe tener en cuenta que la impedancia tiene una parte real y una parte imaginaria.
  - Los voltajes y las corrientes en un circuito RC en serie-paralelo, siguen las mismas leyes de la ley de ohm, con base en estas leyes se puede llegar a una solución en el caso que se presenten condensadores o resistencias.
  - Para concluir, en los calculos de las impedancias, se tienen que tener muy en claro las fórmulas y el despeje necesario que se debe hacer para poder resolver estos ejercicios.
