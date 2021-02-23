@@ -22,7 +22,8 @@
 
 ![image](https://user-images.githubusercontent.com/76132461/108799615-b93b9f00-755e-11eb-9722-fb64ed9e1624.png)
 
-![image](https://user-images.githubusercontent.com/76132461/108799626-bf318000-755e-11eb-82da-807c2ade9d06.png)
+![image](https://user-images.githubusercontent.com/76132461/108800005-f05e8000-755f-11eb-8368-db60b723e61f.png)
+
 
 3. EJERCICIOS
 4. LISTA DE COMPONENTES
