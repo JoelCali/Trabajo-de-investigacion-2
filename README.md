@@ -41,15 +41,20 @@ Nuestro siguiente circuito a resolver será en paralelo, en este circuito para e
 6. APORTES
 
 TinkerCAD
+
 ![image](https://user-images.githubusercontent.com/76134214/108809102-227adc80-7576-11eb-8c9d-cf2e4b0a7287.png)
 
 Proteus
-![image](https://user-images.githubusercontent.com/76134214/108809109-2575cd00-7576-11eb-8535-b02bc0a7559c.png) 
+
+![image](https://user-images.githubusercontent.com/76134214/108809109-2575cd00-7576-11eb-8535-b02bc0a7559c.png) ![image](https://user-images.githubusercontent.com/76134214/108810851-0842fd80-757a-11eb-88ff-793c568db236.png)
+
 
 TinkerCAD
+
 ![image](https://user-images.githubusercontent.com/76134214/108809123-29a1ea80-7576-11eb-8be9-f8b31b0191c7.png)
 
 Proteus
+
 ![image](https://user-images.githubusercontent.com/76134214/108809129-2d357180-7576-11eb-9db0-1c4f3f11e77b.png)
 
 7. CONCLUSIONES
